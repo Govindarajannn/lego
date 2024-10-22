@@ -1,6 +1,6 @@
 # Welcome to React three fiber Minecraft
 
-This project is just me trying to mimic Minecraft in React.
+This project is just me trying to make a Lego simulator in Three.js
 
 ## How to play?
 
